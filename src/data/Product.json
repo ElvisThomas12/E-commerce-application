@@ -1,0 +1,107 @@
+
+
+[
+  {
+    "id": 1 ,
+    "title": "Iphone 14",
+    "image": "./images/iphone14.jfif",
+    "price" : 899,
+    "count" : 1
+     
+  },
+
+  {
+    "id": 2 ,
+    "title": "Iphone14 P",
+    "image": "./images/iphone14pro.jfif",
+    "price" : 1000,
+    "count" : 1
+
+    
+  },
+
+  {
+    "id": 3,
+    "title": "Iphone 12",
+    "image": "./images/iphone12.jpg",
+    "price" : 699,
+    "count" : 1
+    
+  },
+
+  {
+    "id": 4 ,
+    "title": "Iphone SE",
+    "image": "./images/IphoneSe.jfif",
+    "price" : 499,
+    "count" : 1
+    
+  },
+  {
+    "id": 5 ,
+    "title": "Iphone XR",
+    "image": "./images/iphone.jpg",
+    "price" : 550,
+    "count" : 1
+    
+  },
+  {
+    "id": 6 ,
+    "title": "Ipad Air 4 ",
+    "image": "./images/Ipad.jpg",
+    "price" : 980,
+    "count" : 1
+    
+  },
+  {
+    "id": 7 ,
+    "title": "Ipad Air",
+    "image": "./images/ipadair.jfif",
+    "price" : 750,
+    "count" : 1
+    
+  },
+
+  {
+    "id": 8,
+    "title": "MacBook P",
+    "image": "./images/Macpro.jfif",
+    "price" : 1200,
+    "count" : 1
+    
+  },
+  {
+    "id": 9,
+    "title": "Airpod",
+    "image": "./images/airpod.jfif",
+    "price" : 499,
+    "count" : 1
+    
+  },
+  {
+    "id": 10,
+    "title": "Airpod P",
+    "image": "./images/airpodp.jfif",
+    "price" : 599,
+    "count" : 1
+    
+  },
+  {
+    "id": 11,
+    "title": "Iwatch 6S",
+    "image": "./images/iwatch.jfif",
+    "price" : 499,
+    "count" : 1
+    
+  },
+  {
+    "id": 12,
+    "title": "Ipad P",
+    "image": "./images/ipadpro.jfif",
+    "price" : 1000,
+    "count" : 1
+    
+  }
+
+
+]

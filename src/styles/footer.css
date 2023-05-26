@@ -1,0 +1,15 @@
+.fb{
+    color: rgb(14, 17, 227);
+}
+.insta{
+    color:maroon;
+}
+.icons{
+    margin-left: 700px;
+    margin-right: 700px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.twitter{
+    color: rgb(32, 139, 206);
+}

@@ -1,0 +1,156 @@
+
+
+ body {
+    background-color: #e5eaf5;
+
+} 
+ .title{
+  
+   font: 4em sans-serif;
+ 
+   
+} 
+.title1{
+  
+   font: 4em sans-serif;
+   margin-right: 120px;
+   
+} 
+.flex{
+   display: flex;
+   justify-content: space-evenly;
+   /* margin-right: 550px; */
+}
+
+.is-hovered:hover{
+   background-color: grey;
+   
+}
+.box{
+   outline: 1px solid lightgrey;
+   background-color: rgb(156, 208, 207);
+   font-size: 25px;font-weight: 600;
+   font-family: sans-serif;
+}
+.head{
+   color: rgb(0, 0, 0);
+   font-size: 40px;
+   text-align: center;
+   font-family: sans-serif;
+   padding-top: 10px;
+}
+/* .searchbar{
+   margin-left: 1150px;
+   
+   
+} */
+.search{
+   border-radius: 5px;
+   width: 200px;
+   margin-left: 1150px;
+
+}
+.go{
+   height: 22px;
+   width: 40px;
+   border-radius: 5px;
+}
+.box1{
+   outline: 1px solid lightgrey;
+   background-color: rgb(156, 208, 207);
+   font-size: 25px;font-weight: 600;
+   font-family: sans-serif;
+   display: flex;
+   
+}
+
+.head{
+   margin-bottom: 10px;
+}
+.align{
+   margin-left: 20px;
+}
+.inline{
+   display:flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+.space{
+   margin-bottom: 20px;
+}
+.decrease{
+   padding:8px;
+   /* padding-left:10px; */
+   background-color: hsl(217, 71%, 53%);
+   font-weight: 500;
+   font-size: 20px;
+   border-radius: 10px;
+   margin-bottom: 10px;
+
+}
+.increase{
+   padding-left:5px;
+   background-color: hsl(217, 71%, 53%);
+   font-weight: 500;
+   font-size: 20px;
+   border-radius: 7px;
+   margin-bottom: 10px;
+}
+.quant{
+   font-size: 16px;
+   font-weight: 500;
+   font-family: sans-serif;
+   color: red;
+}
+.buy{
+   justify-content: center;
+}
+ul{
+   display: flex;
+   justify-content: space-evenly;
+   
+}
+.cartbutton{
+   margin-left: 600px;
+}
+.heart{
+   background-color: grey;
+   margin-left: 20px;
+}
+.flex1{
+
+   display: flex;
+   justify-content: space-evenly;
+   margin-right:600px;
+   margin-left: 500px;
+   margin-top: 50px;
+   font-size: 20px;
+}
+.buy{
+   margin-left: 600px;
+   margin-top: 30px;
+}
+.buybutton{
+   margin-left: 630px;
+   margin-top: 30px;
+}
+.button{
+   margin-left: 600px;
+}
+.increase1{
+   padding-left:5px;
+   background-color: hsl(217, 71%, 53%);
+   font-weight: 500;
+   font-size: 20px;
+   border-radius: 7px;
+   margin-bottom: 10px;
+   margin-left: 15px;
+}
+.card{
+   background-color: hsl(217, 71%, 53%);
+   font-size: 20px;
+   font-weight: 700;
+}
+.gotocart{
+  color: black ;
+}

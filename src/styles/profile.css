@@ -1,0 +1,17 @@
+.card:hover{
+    background-color: grey;
+}
+.but{
+    outline: 1px solid black;
+    width: 85px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:  HSL(171, 100%, 41%);
+    font-weight: 500;
+    background-color: #485fc7;
+    margin-top: 10px;
+}
+.but:hover{
+    background-color: blue;
+    font-weight: 600;
+}

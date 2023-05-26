@@ -1,0 +1,27 @@
+
+
+[
+    {
+      "id": 1 ,
+      "name": "ELVIS THOMAS",
+      "phone": "7025247397",
+      "email" : "abc@gmail.com"
+    },
+  
+    {
+      "id": 2 ,
+      "name": "ZIDHU",
+      "phone": "5124516317",
+      "email": "abcde@gmail.com"
+    },
+  
+    {
+      "id": 3,
+      "name": "SHIVA",
+      "phone": "1245631572",
+      "email":"abcde122@gmail.com"
+    }
+  
+
+  ]
+  
